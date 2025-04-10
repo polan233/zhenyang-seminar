@@ -22,4 +22,4 @@ seminar/
 ```
 
 # 备注
-本仓库fork自书籍《和Wakaba酱一起学Git》的练习用仓库。
+本仓库fork自书籍《和Wakaba酱一起学Git》的练习用仓库。借它来做pr的练习示例仓库。
